@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FriendBook</string>
+    <string name="title_activity">FriendBook</string>
+
+    <string-array name="amigos">
+        <item>Jose Martínez:2299231245:jlceballos@ucc.mx:Av. Río Papaloapan, Las Vegas II, Boca del Río, Veracruz</item>
+        <item>Raquel Montes:2291331241:rsmontes@ucc.mx:Calle Pedro de Alvarado, Revolución, Boca del Río, Veracruz</item>
+        <item>Oscar Méndez:2292781144:omendez@ucc.mx:Avenida Alacio Pérez, Centro, Veracruz, Veracruz</item>
+        <item>Rodrigo Zapata:2299117454:rzapata@ucc.mx:Calle Altotonga, Formando Hogar, Veracruz, Veracruz</item>
+        <item>Astrid López:2293147411:alopez@ucc.mx:Calle Orizaba, Ignacio Zaragoza, Veracruz, Veracruz</item>
+        <item>Victoria Aquino:2299540010:vaquino@ucc.mx:Calle Laguna del Ostión, El Coyol, Veracruz, Veracruz</item>
+        <item>Nayeli Ortega:2291442974:rortega@ucc.mx:Zafiro, Joyas de Mocambo, Boca del Río, Veracruz</item>
+        <item>Braulio Juarez:2299147561:bjuarez@ucc.mx:Calle Leonador Pasquel, Las Brisas, Veracruz, Veracruz</item>
+        <item>Hugo Pineda:2299120112:hpineda@ucc.mx:Calle Río Grande, Lomas de Río Medio, Veracruz, Veracruz</item>
+    </string-array>
+</resources>
